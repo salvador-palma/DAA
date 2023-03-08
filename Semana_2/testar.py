@@ -52,7 +52,7 @@ def tryItABunch2(myFn, startN=10, endN=100, stepSize=10, numTrials=20, listMax =
         # run myFn several times and average to get a decent idea.
         runtime = 0
         for t in range(numTrials):
-            lst = [ choice(range(listMax)) for i in range(n) ] # generate a *random* list of length n
+            lst =  reversed(list(range(n))) #[ choice(range(listMax)) for i in range(n) ] # generate a *random* list of length n
             start = time.time()
             myFn( lst )
             end = time.time()
