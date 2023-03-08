@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1faf8e26-fff3-450d-b1a8-8c33cbfdcf99" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mini-Trabalho_1/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Mini-Trabalho_1/main.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana_2/DAA_Aulas_Semana_02_auxiliar.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Semana_2/DAA_Aulas_Semana_02_auxiliar.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana_2/testar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Semana_2/testar.py" afterDir="false" />
-    </list>
+    <list default="true" id="1faf8e26-fff3-450d-b1a8-8c33cbfdcf99" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +73,7 @@
       <workItem from="1678109481862" duration="15733000" />
       <workItem from="1678136085569" duration="594000" />
       <workItem from="1678194480049" duration="15378000" />
-      <workItem from="1678281077850" duration="18346000" />
+      <workItem from="1678281077850" duration="18969000" />
     </task>
     <servers />
   </component>
