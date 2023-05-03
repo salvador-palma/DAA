@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1faf8e26-fff3-450d-b1a8-8c33cbfdcf99" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Mini_Trabalho_2/main.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mini-Trabalho_1/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Mini-Trabalho_1/main.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +36,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
@@ -78,6 +79,13 @@
       <workItem from="1678194480049" duration="15378000" />
       <workItem from="1678281077850" duration="19512000" />
       <workItem from="1678368107005" duration="8318000" />
+      <workItem from="1678393291217" duration="280000" />
+      <workItem from="1679431982486" duration="589000" />
+      <workItem from="1682793997474" duration="688000" />
+      <workItem from="1682804978213" duration="7000" />
+      <workItem from="1682865649340" duration="9397000" />
+      <workItem from="1682882376683" duration="10566000" />
+      <workItem from="1682947733729" duration="19446000" />
     </task>
     <servers />
   </component>
